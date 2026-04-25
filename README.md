@@ -9,6 +9,6 @@ PyQt6 package has used for this mini-project
 ## how to use
 1. `git clone https://github.com/amirhkhani/simple-gui-notepad.git`
 2. `cd simple-gui-notepad`
-3. `pip install -r requirements.txt\`
+3. `pip install -r requirements.txt`
 4. `python src/notepad.py`
 
