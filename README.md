@@ -1,7 +1,7 @@
 # simple-gui-notepad
 a simple gui notepad that coded by python (PyQt6)
 <br></br>
-you can open, edit and save your file easily not you will not have advanced Tolls.
+you can open, edit and save your file easily but you will not have advanced Tolls!
 <br></br> 
 PyQt6 package has used for this mini-project
 <br></br>
